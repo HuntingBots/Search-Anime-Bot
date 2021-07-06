@@ -9,7 +9,7 @@
       "search",
       "productivity"
     ],
-    "repository": "https://github.com/JyothisJayanth/Search-Anime-Bot",
+    "repository": "https://github.com/HuntingBots/Search-Anime-Bot",
     "website": "#TODO",
     "success_url": "#TODO",
     "env": {
@@ -41,4 +41,3 @@
       "url": "heroku/python"
     }]
   }
-  
